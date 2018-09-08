@@ -7,7 +7,8 @@ This repository contain deep learning experiments which i learned over time.
 
 * Hand written numbers recognization.
 * Cat Vs Dog
-* Chatbot
+* RNN - Mnist Dataset
+* Chatbot (Soon!)
 
 ### Data sets
 
